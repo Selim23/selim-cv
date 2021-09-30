@@ -35,7 +35,7 @@ const Contact = () => {
                     </div>
                 </div>
 
-                <div data-aos="fade-left" className="p-4">
+                <div  data-aos="fade-up" className="p-4">
                 <form action="https://formsubmit.co/selimcan.kaygun@gmail.com" method="POST">
 
                     <div>

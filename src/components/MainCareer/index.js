@@ -58,7 +58,7 @@ allData.forEach(e => {
 
     arrayLeft.forEach((e) =>{
         listLeft.push(
-            <div data-aos="fade-left" class="mb-8 lg:flex justify-between lg:flex-row-reverse items-center w-full lg:left-timeline">
+            <div data-aos="fade-right" class="mb-8 lg:flex justify-between lg:flex-row-reverse items-center w-full lg:left-timeline">
             <div class="lg:order-1 lg:w-5/12"></div>
             <div class="z-20 lg:flex items-center order-1 bg-red-400 shadow-xl w-32 h-32 rounded-full m-auto">
             <img style={{}} className="p-4 rounded-full object-contain m-auto" src={e.logoUrl}></img>

@@ -31,7 +31,7 @@ We had a computer at home for the first time in 2004. it was a windows 98. I was
                 </div>
             </div>
             <div className="w-6/6 h-full border-4 border-black m-auto bg-black">
-                <div data-aos="fade-left"  className="lg:w-9/12 h-full border-4 border-black m-auto lg:flex">
+                <div data-aos="fade-up"  className="lg:w-9/12 h-full border-4 border-black m-auto lg:flex">
                 <div className="lg:w-3/5 lg:h-full">
                         <h1 className="px-12 text-8xl mt-12 text-center text-white">My hobby's</h1>
                         <p className="px-12 text-2xl py-12 text-white">
