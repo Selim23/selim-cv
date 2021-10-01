@@ -18,7 +18,7 @@ router.route('/add').post(async(req, res) => {
 
 let allData = 0;
 
-  await fetch('http://localhost:5000/jobs/')
+  await fetch('https://selim-cv.herokuapp.com/jobs/')
   .then(response => response.json())
   .then(dataH => allData = dataH.length);
   let idPlusOne = allData + 1;
