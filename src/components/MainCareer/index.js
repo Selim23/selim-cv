@@ -18,7 +18,7 @@ AOS.init({
 const [allData, setAllData] = useState([]);
 
 useEffect( () =>{
-       fetch('http://localhost:5000/jobs/')
+       fetch('https://selim-cv.herokuapp.com/jobs/')
         .then(response => response.json())
         .then(dataH => setAllData(dataH));
 },[]);
