@@ -13,7 +13,7 @@ const Contact = () => {
     return (
         <div id="footerContact" className=" w-full h-full bg-black">
             <div data-aos="fade-up" className='text-center'>
-                <h1 className="uppercase py-16 text-8xl text-white">Contact</h1>
+                <h1 className="uppercase pt-10 pb-6 text-8xl text-white">Contact</h1>
             </div>
             <div className="p-4 w-full lg:w-4/6 h-full m-auto grid lg:grid-cols-2">
                 <div data-aos="fade-right" className=" grid cols-1 p-4"> 
@@ -35,7 +35,7 @@ const Contact = () => {
                     </div>
                 </div>
 
-                <div  data-aos="fade-up" className="p-4">
+                <div  data-aos="fade-up" className="">
                 <form action="https://formsubmit.co/selimcan.kaygun@gmail.com" method="POST">
 
                     <div>
@@ -66,7 +66,7 @@ const Contact = () => {
                         </button>
                     </div>
                     <div className=" lg:hidden p-4">
-                        <div className="py-8 w-full" style={{width:'100%;', overflow:"hidden"}}>
+                        <div className="pt-8 w-full" style={{width:'100%;', overflow:"hidden"}}>
                         <img style={{height:'300px', width:'100%', objectFit:'cover'}} src={'https://images.pexels.com/photos/5541019/pexels-photo-5541019.png?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260'}/>
                         </div>
                       

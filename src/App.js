@@ -3,7 +3,8 @@ import Footer from './components/Footer';
 import Header from './components/Header';
 import Main from './components/Main';
 import MainCareer from './components/MainCareer';
-import Navbar from './components/Navbar';
+import Lang from './components/Lang-frameworks';
+import LangSkill from './components/Lang-skills';
 import Contact from './components/Contact'
 
 function App() {
@@ -12,6 +13,8 @@ function App() {
       <Header/>
       <Main/>
       <MainCareer/>
+      <Lang/>
+      <LangSkill/>
       <Contact/>
       <Footer/>
     </div>

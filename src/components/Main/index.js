@@ -21,7 +21,7 @@ const Main = () => {
                     </div>
                     <div className="lg:w-3/5 h-full" id="slider">
                         <h1  className="px-12 text-6xl text-center lg:text-8xl mt-12 text-white">Who am I ?</h1>
-                        <p className="px-12 text-2xl py-12 text-white">"Hi! My name is Selim. I’m 23 and I live in Antwerpen but I'm born in another country - Turkey, Elazig-Karakocan, where I lived for 10 years. In 2008, my dad decided to change his job, and we all moved to Antwerpen. I have also a sister and a brother.
+                        <p className="px-12 text-2xl py-12 text-white">"Hi! My name is Selim. I live in Antwerpen but I'm born in another country - Turkey, Elazig-Karakocan, where I lived for 10 years. In 2008, my dad decided to change his job, and we all moved to Antwerpen. I have also a sister and a brother.
 my father has his own business. He makes Turkish dishes and desserts.  He has a bakery where I had to work a lot during my studies.<br/><br/>
 
 As a child, I found computers fascinating. Everything you could do with it was like magic.
