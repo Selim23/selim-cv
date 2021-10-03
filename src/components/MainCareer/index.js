@@ -37,6 +37,10 @@ allData.forEach(e => {
     }
 });
 
+arrayRight.sort((a, b) => a.id - b.id);
+
+arrayLeft.sort((a, b) => a.id - b.id);
+
     const listRight = [];
     const listLeft = [];
 
